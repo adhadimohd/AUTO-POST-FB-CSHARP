@@ -1,0 +1,16 @@
+D:\Projects\FBHelper\DataLater\bin\Debug\DataLayer.dll.config
+D:\Projects\FBHelper\DataLater\bin\Debug\DataLayer.dll
+D:\Projects\FBHelper\DataLater\bin\Debug\DataLayer.pdb
+D:\Projects\FBHelper\DataLater\bin\Debug\DataModel.dll
+D:\Projects\FBHelper\DataLater\bin\Debug\EntityFramework.dll
+D:\Projects\FBHelper\DataLater\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\FBHelper\DataLater\bin\Debug\DataModel.pdb
+D:\Projects\FBHelper\DataLater\bin\Debug\EntityFramework.xml
+D:\Projects\FBHelper\DataLater\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\FBHelper\DataLater\obj\Debug\FBHelper.DataLayer.csprojResolveAssemblyReference.cache
+D:\Projects\FBHelper\DataLater\obj\Debug\DataLater.Migrations.initialmigration.resources
+D:\Projects\FBHelper\DataLater\obj\Debug\DataLater.Migrations.AddAccount.resources
+D:\Projects\FBHelper\DataLater\obj\Debug\DataLater.Migrations.updateContent.resources
+D:\Projects\FBHelper\DataLater\obj\Debug\FBHelper.DataLayer.csproj.GenerateResource.Cache
+D:\Projects\FBHelper\DataLater\obj\Debug\DataLayer.dll
+D:\Projects\FBHelper\DataLater\obj\Debug\DataLayer.pdb

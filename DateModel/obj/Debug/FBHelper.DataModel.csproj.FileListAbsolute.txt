@@ -1,0 +1,9 @@
+D:\Projects\FBHelper\DateModel\bin\Debug\DataModel.dll
+D:\Projects\FBHelper\DateModel\bin\Debug\DataModel.pdb
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.dll
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.xml
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\FBHelper\DateModel\obj\Debug\DataModel.dll
+D:\Projects\FBHelper\DateModel\obj\Debug\DataModel.pdb
+D:\Projects\FBHelper\DateModel\obj\Debug\FBHelper.DataModel.csprojResolveAssemblyReference.cache

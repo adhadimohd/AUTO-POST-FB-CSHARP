@@ -1,0 +1,17 @@
+D:\Projects\WindowsFormsApplication2\DateModel\bin\Debug\DateModel.dll
+D:\Projects\WindowsFormsApplication2\DateModel\bin\Debug\DateModel.pdb
+D:\Projects\WindowsFormsApplication2\DateModel\bin\Debug\EntityFramework.dll
+D:\Projects\WindowsFormsApplication2\DateModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\WindowsFormsApplication2\DateModel\bin\Debug\EntityFramework.xml
+D:\Projects\WindowsFormsApplication2\DateModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\WindowsFormsApplication2\DateModel\obj\Debug\DateModel.dll
+D:\Projects\WindowsFormsApplication2\DateModel\obj\Debug\DateModel.pdb
+D:\Projects\FBHelper\DateModel\bin\Debug\DateModel.dll
+D:\Projects\FBHelper\DateModel\bin\Debug\DateModel.pdb
+D:\Projects\FBHelper\DateModel\obj\Debug\DateModel.dll
+D:\Projects\FBHelper\DateModel\obj\Debug\DateModel.pdb
+D:\Projects\FBHelper\DateModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.dll
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.xml
+D:\Projects\FBHelper\DateModel\bin\Debug\EntityFramework.SqlServer.xml

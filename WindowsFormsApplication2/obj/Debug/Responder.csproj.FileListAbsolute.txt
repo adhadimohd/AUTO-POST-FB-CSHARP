@@ -1,0 +1,69 @@
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Responder.csprojResolveAssemblyReference.cache
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UI.resources
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Responder.csproj.GenerateResource.Cache
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.Support.dll
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.xml
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+C:\Users\merc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.Support.xml
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.Support.dll
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.Support.xml
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Responder.csproj.GenerateResource.Cache
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Forms.SavePost.resources
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FBHelper.UI.resources
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Responder.csprojResolveAssemblyReference.cache
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fbAccount.resources
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FBHelper.GroupPoster.resources
+D:\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GroupPosterContent.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\DataLayer.dll
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\DateModel.dll
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\WebDriver.Support.dll
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\DataLayer.pdb
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\DateModel.pdb
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\WebDriver.Support.xml
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\Responder.csprojResolveAssemblyReference.cache
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.fbAccount.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.GroupPoster.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.GroupPosterContent.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.SavePost.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.UI.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.Properties.Resources.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\Responder.csproj.GenerateResource.Cache
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.GroupFrm.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\obj\Debug\FBResponder.Campaigner.resources
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\FBHelper\WindowsFormsApplication2\bin\Debug\DataLayer.dll.config
